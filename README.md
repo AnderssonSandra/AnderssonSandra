@@ -4,7 +4,7 @@
 * 💛 I live in Sweden
 * 💙 I'm soon to be 26 years old
 * 💚 I´m currently a student studying a program at the Mid University in Sweden. I'm trying to learn more about programing.
-* ❤️ JavaScript, Vue, PHP, HTML, CSS, SQL
+* ❤️ So far I have used: JavaScript, Vue, PHP, HTML, CSS, SQL
  
 
 <!--
