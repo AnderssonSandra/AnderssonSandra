@@ -3,10 +3,9 @@
 * 💜 My name is Sandra
 * 💛 I live in Sweden
 * 💙 I'm soon to be 26 years old
-* 💚 I´m currently a student studying a program at the Mid University in Sweden.
-* ❤️ I'm trying to learn more about programing.
-* 
-
+* 💚 I´m currently a student studying a program at the Mid University in Sweden. I'm trying to learn more about programing.
+* ❤️ JavaScript, Vue, PHP, HTML, CSS, SQL
+ 
 
 <!--
 **AnderssonSandra/AnderssonSandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
