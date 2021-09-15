@@ -2,10 +2,7 @@
 
 * 💜 My name is Sandra
 * 💛 I live in Sweden
-* 💙 I'm 26 years old
-* 💚 I´m currently a student studying a program at the Mid University in Sweden. I'm trying to learn more about programing.
-* ❤️ So far I have used: JavaScript, Vue, PHP, HTML, CSS, SQL, .NET core, ASP.NET, Entity Framework, C#, SCSS 
- 
+* ❤️ JavaScript, Vue, PHP, HTML, CSS, SQL, .NET core, ASP.NET, Entity Framework, C#, SCSS, MVC, SQL
 
 <!--
 **AnderssonSandra/AnderssonSandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
